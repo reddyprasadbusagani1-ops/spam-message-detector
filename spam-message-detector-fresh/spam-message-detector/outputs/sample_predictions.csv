@@ -1,0 +1,5 @@
+message,expected_label
+Please send me the notes from today's lecture.,ham
+I will reach the bus stop in ten minutes.,ham
+Congratulations! You won a free prize. Claim now!,spam
+Get a free gift card today. Click here.,spam
